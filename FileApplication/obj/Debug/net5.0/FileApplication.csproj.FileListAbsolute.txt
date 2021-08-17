@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\FileApplication\bin\Debug\net5.0\FileApplication.exe
+C:\Users\ADMIN\source\repos\FileApplication\bin\Debug\net5.0\FileApplication.deps.json
+C:\Users\ADMIN\source\repos\FileApplication\bin\Debug\net5.0\FileApplication.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FileApplication\bin\Debug\net5.0\FileApplication.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\FileApplication\bin\Debug\net5.0\FileApplication.dll
+C:\Users\ADMIN\source\repos\FileApplication\bin\Debug\net5.0\ref\FileApplication.dll
+C:\Users\ADMIN\source\repos\FileApplication\bin\Debug\net5.0\FileApplication.pdb
+C:\Users\ADMIN\source\repos\FileApplication\obj\Debug\net5.0\FileApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\FileApplication\obj\Debug\net5.0\FileApplication.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FileApplication\obj\Debug\net5.0\FileApplication.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FileApplication\obj\Debug\net5.0\FileApplication.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FileApplication\obj\Debug\net5.0\FileApplication.dll
+C:\Users\ADMIN\source\repos\FileApplication\obj\Debug\net5.0\ref\FileApplication.dll
+C:\Users\ADMIN\source\repos\FileApplication\obj\Debug\net5.0\FileApplication.pdb
+C:\Users\ADMIN\source\repos\FileApplication\obj\Debug\net5.0\FileApplication.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\FileApplication\obj\Debug\net5.0\FileApplication.csprojAssemblyReference.cache

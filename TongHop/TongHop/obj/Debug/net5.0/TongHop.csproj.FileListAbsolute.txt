@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\TongHop\TongHop\obj\Debug\net5.0\TongHop.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\TongHop\TongHop\obj\Debug\net5.0\TongHop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\TongHop\TongHop\obj\Debug\net5.0\TongHop.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\TongHop\TongHop\obj\Debug\net5.0\TongHop.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\TongHop\TongHop\obj\Debug\net5.0\TongHop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\TongHop\TongHop\bin\Debug\net5.0\TongHop.exe
+C:\Users\ADMIN\source\repos\TongHop\TongHop\bin\Debug\net5.0\TongHop.deps.json
+C:\Users\ADMIN\source\repos\TongHop\TongHop\bin\Debug\net5.0\TongHop.runtimeconfig.json
+C:\Users\ADMIN\source\repos\TongHop\TongHop\bin\Debug\net5.0\TongHop.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\TongHop\TongHop\bin\Debug\net5.0\TongHop.dll
+C:\Users\ADMIN\source\repos\TongHop\TongHop\bin\Debug\net5.0\ref\TongHop.dll
+C:\Users\ADMIN\source\repos\TongHop\TongHop\bin\Debug\net5.0\TongHop.pdb
+C:\Users\ADMIN\source\repos\TongHop\TongHop\obj\Debug\net5.0\TongHop.dll
+C:\Users\ADMIN\source\repos\TongHop\TongHop\obj\Debug\net5.0\ref\TongHop.dll
+C:\Users\ADMIN\source\repos\TongHop\TongHop\obj\Debug\net5.0\TongHop.pdb
+C:\Users\ADMIN\source\repos\TongHop\TongHop\obj\Debug\net5.0\TongHop.genruntimeconfig.cache
